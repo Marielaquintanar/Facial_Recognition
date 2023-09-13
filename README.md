@@ -34,6 +34,6 @@ alrededor de los rostros en esa imagen.
 5. Ejecute el programa.
 6. El programa identificará si la persona conocida está presente en las imágenes y dibujará bounding boxes rojos en caso contrario.
 
+-:file_folder:- _Tareas_:
+  + [Tarea 1](Face_Recognition_Mariela_Quintanar.pdf)
 
-
-Face_Recognition_Mariela_Quintanar.pdf
