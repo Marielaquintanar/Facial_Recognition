@@ -33,3 +33,7 @@ alrededor de los rostros en esa imagen.
 3. Proporcione una imagen de referencia de la persona conocida e ingrese imágenes de rostros desconocidos.
 5. Ejecute el programa.
 6. El programa identificará si la persona conocida está presente en las imágenes y dibujará bounding boxes rojos en caso contrario.
+
+
+
+Face_Recognition_Mariela_Quintanar.pdf
