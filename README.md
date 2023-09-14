@@ -34,6 +34,48 @@ around the faces in that image.
 5. Run the program.
 6. The program will identify if the known person is present in the images and will draw red bounding boxes if not.
 
--:file_folder:- _Tasks_:
-  + [Task 1](Face_Recognition_Mariela_Quintanar.pdf)
+
+
+![Face_Recognition_Mariela_Quintanar](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/13ba4979-2511-4182-a03c-f0a59259beab)
+
+![Face_Recognition_Mariela_Quintanar (1)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/f9ec16cd-64a7-45c6-b464-b0fe62ef736e)
+
+![Face_Recognition_Mariela_Quintanar (2)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/87a0c53d-90f3-4a64-ad9b-fde1adc44526)
+
+![Face_Recognition_Mariela_Quintanar (3)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/f4da5a64-5389-44c2-8ebc-4a887fc2e07f)
+
+![Face_Recognition_Mariela_Quintanar (4)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/e1f1dcf6-3a67-4dc3-8a8f-605ff64336ee)
+
+![Face_Recognition_Mariela_Quintanar (5)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/4b681c79-df20-4e23-91bd-d2ce9980a1d0)
+
+![Face_Recognition_Mariela_Quintanar (6)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/7865ddf6-f9be-4565-a3ef-b73b50e80f03)
+
+![Face_Recognition_Mariela_Quintanar (7)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/b5b587be-2230-44cb-980b-9b2846c1b5b6)
+
+![Face_Recognition_Mariela_Quintanar (8)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/52526728-989f-4c16-adb7-d676d22c3b87)
+
+![Face_Recognition_Mariela_Quintanar (9)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/461ee7c1-39c2-421c-8148-98c3fae1fb21)
+
+![Face_Recognition_Mariela_Quintanar (10)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/b20dab55-d62f-4e70-92a8-ad08b7e4fddc)
+
+![Face_Recognition_Mariela_Quintanar (11)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/b8be7c81-15ed-41c7-b038-db352eff0c32)
+
+![Face_Recognition_Mariela_Quintanar (12)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/e8ab429f-a131-4492-86fc-2281244e55ed)
+
+![Face_Recognition_Mariela_Quintanar (13)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/12471507-1643-41aa-bced-538fa7e05ce9)
+
+![Face_Recognition_Mariela_Quintanar (14)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/ece7dcb9-d8e8-4a59-a7b2-2f2bce2eb4ca)
+
+![Face_Recognition_Mariela_Quintanar (15)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/41ea535c-3d49-46af-9cd4-64deb65b87af)
+
+![Face_Recognition_Mariela_Quintanar (16)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/a625fff9-f2bd-45e0-aed5-054ccccb3331)
+
+![Face_Recognition_Mariela_Quintanar (17)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/124295d9-a083-45a5-9980-b3f46513ee07)
+
+![Face_Recognition_Mariela_Quintanar (18)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/82d41a97-bd76-447a-9e6c-39859b60f0f9)
+
+![Face_Recognition_Mariela_Quintanar (19)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/cd228c46-eaef-4fa4-b12e-9f5a51dce1ee)
+
+![Face_Recognition_Mariela_Quintanar (20)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/f945710d-57d0-4e04-af77-557d4d75b6e8)
+
 
