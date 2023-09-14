@@ -42,8 +42,6 @@ around the faces in that image.
 
 ![Face_Recognition_Mariela_Quintanar (2)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/87a0c53d-90f3-4a64-ad9b-fde1adc44526)
 
-![Face_Recognition_Mariela_Quintanar (3)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/f4da5a64-5389-44c2-8ebc-4a887fc2e07f)
-
 ![Face_Recognition_Mariela_Quintanar (4)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/e1f1dcf6-3a67-4dc3-8a8f-605ff64336ee)
 
 ![Face_Recognition_Mariela_Quintanar (5)](https://github.com/Marielaquintanar/Facial_Recognition/assets/113490590/4b681c79-df20-4e23-91bd-d2ce9980a1d0)
